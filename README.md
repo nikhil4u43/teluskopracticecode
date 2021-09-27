@@ -1,0 +1,2 @@
+# teluskopracticecode
+Practice code 
